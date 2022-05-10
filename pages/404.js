@@ -17,7 +17,7 @@ export default function NotFound() {
 
     <div className="not-found">
       <h1>Ooops....</h1>
-      <h2>The page doesn't Exist.</h2>
+      <h2>The page doesnt Exist.</h2>
       <p>
         Click Here to Go back to{" "}
         <Link href="/">
